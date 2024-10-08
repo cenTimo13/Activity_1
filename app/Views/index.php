@@ -56,7 +56,7 @@ use CodeIgniter\Database\BaseUtils;
 </section>
 
 <section>
-  <div class="album py-5 bg-body-tertiary row2">
+  <div class="album py-5 bg-body-tertiary row5">
     <h2 class="t-title">Message From The Devs!</h2>
     <div class="container testimonial">
       <div class="text-box t1">"Minecraft Tim is all about bringing the magic of Minecraft to life. Our goal is to create a unique experience for every player, with exclusive collectibles and in-game items that you won't find anywhere else." <span><br><br>- Jethro, Lead Developer</span></div>
@@ -116,16 +116,16 @@ use CodeIgniter\Database\BaseUtils;
   </div>
 </section>
 
-<section>
+<section style="background-color: #3C3C3C; color: #FFFFFF;">
   <div class="container col-xxl-8 px-4 py-5">
     <div class="row row1 flex-lg-row align-items-center g-5 py-5 ml-5">
       <div class="col-10 col-sm-8 col-lg-6">
         <img src="https://figurama-collectors.com/cdn/shop/products/03_76c2425f-2309-4248-998c-1264c4d37f13_5000x.png?v=1677490686" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700"
           height="500" loading="lazy">
       </div>
-      <div class=" coming-soon col-lg-6">
-        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Unlock Exclusive Collectibles with GameWorld</h1>
-        <p class="lead">Something big is coming to GameWorld! Get ready for the release of new limited-edition
+      <div class="coming-soon col-lg-6">
+        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3" style="color: #00FF00;">Unlock Exclusive Collectibles with GameWorld</h1>
+        <p class="lead" style="color: #FFFFFF;">Something big is coming to GameWorld! Get ready for the release of new limited-edition
           games and rare collectibles, both in-game and physical. Stay tuned for the launch, and be among the
           first to get your hands on these one-of-a-kind items!</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">

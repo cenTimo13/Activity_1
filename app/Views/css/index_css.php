@@ -1,4 +1,10 @@
 <style>
+
+  .row2{
+    background-color: #3C3C3C; color: #FFFFFF;
+  }
+
+
   .icon-square {
     width: 3rem;
     height: 3rem;
