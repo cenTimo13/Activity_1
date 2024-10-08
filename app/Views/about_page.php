@@ -16,19 +16,15 @@
   </div>
 </section>
 
-<section>
+<section class="hero-section">
   <div class="container col-xxl-8 px-4 py-5">
     <div class="row row1 flex-lg-row align-items-center g-5 py-5 ml-5">
       <div class="col-10 col-sm-8 col-lg-6">
-        <img src="alagodsLogo.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700"
-          height="500" loading="lazy">
+        <img src="minecraftLogo.png" class="d-block mx-lg-auto img-fluid" alt="Minecraft Logo" width="700" height="500" loading="lazy">
       </div>
-      <div class=" coming-soon col-lg-6">
-        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Alagods Aesthetics</h1>
-        <p class="lead">At Alagods Aesthetics, we are passionate about crafting exceptional accessories that inspire
-          self-expression. With our captivating range of button pins, keycaps, and ID laces, we offer you the means to
-          showcase your unique personality and make a statement. We are committed to delivering quality, innovation,
-          and attention to detail, empowering you to embrace your individuality and celebrate your passions.</p>
+      <div class="coming-soon col-lg-6">
+        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Minecrafty Tim</h1>
+        <p class="lead">Welcome to Minecrafty Tim, your ultimate destination for all things blocky and adventurous! Dive into our world of unique accessories inspired by the pixelated charm of Minecraft. From enchanting button pins to epic keycaps and ID laces, we provide the tools you need to express your inner builder and explorer. Join us in celebrating creativity, innovation, and the spirit of adventure, one block at a time.</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
         </div>
       </div>

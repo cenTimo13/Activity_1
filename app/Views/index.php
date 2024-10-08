@@ -16,16 +16,13 @@ use CodeIgniter\Database\BaseUtils;
   <div class="container my-5">
     <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg row2">
       <div class="header col-lg-9 p-3 p-lg-5 pt-lg-3">
-        <h1 class="headings display-4 fw-bold lh-1 text-body-emphasis">Elevate Your Gaming Journey with GameWorld’s Exclusive Collection</h1>
-        <p class="lead mt-4">Explore a vast selection of games and limited-edition collectibles, both in-game
-          and physical. Whether you're looking for the latest titles or rare, one-of-a-kind
-          items, GameWorld has everything you need to showcase your passion for gaming and
-          stand out in the community.</p>
+        <h1 class="headings display-4 fw-bold lh-1 text-body-emphasis">Discover Minecrafty Tim’s Exclusive Minecraft Collection</h1>
+        <p class="lead mt-4">Dive into the world of Minecraft with our extensive range of figurines and collectibles. From the latest character figures to rare, limited-edition items, Minecrafty Tim offers everything you need to bring your favorite game to life. Showcase your love for Minecraft with our unique and high-quality products.</p>
       </div>
     </div>
 
     <div class="container mt-5">
-      <h2 class="pb-2 border-bottom">Newly released games</h2>
+      <h2 class="pb-2 border-bottom">Minecraft Collectibles!</h2>
       <div class="row designs row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 mt-3">
         <div class="col">
           <div class="card shadow-sm">
@@ -60,33 +57,18 @@ use CodeIgniter\Database\BaseUtils;
 
 <section>
   <div class="album py-5 bg-body-tertiary row2">
-    <h2 class="t-title">WHAT GAMERS ARE SAYING ABOUT US</h2>
+    <h2 class="t-title">Message From The Devs!</h2>
     <div class="container testimonial">
-      <div class="text-box t1">"GameWorld is a treasure trove
-        for gaming enthusiasts! I found the perfect game and
-        some exclusive in-game collectibles that I couldn’t
-        get anywhere else. The experience was seamless, and
-        the selection is incredible. GameWorld is my go-to
-        for rare gaming finds!" <span><br><br>- Mark, Completionist gamer</span></div>
-      <div class="text-box t1">"I’m amazed at the limited-edition
-        items available on GameWorld. From exclusive in-game
-        skins to real-life collectibles, they have everything
-        a gamer could dream of. Every purchase adds something
-        special to my collection, whether I’m in-game or
-        displaying it at home!" <span><br><br>- Sarah, Happy Customer</span></div>
-      <div class="text-box t1">"As a collector of gaming
-        memorabilia, GameWorld’s limited-edition releases
-        have been a game-changer. I’ve added exclusive in-game
-        items and physical collectibles to my collection that
-        I couldn’t find anywhere else. GameWorld has truly
-        leveled up my collection!" <span><br><br>- Emily, Gaming Collector</span></div>
+      <div class="text-box t1">"Minecraft Tim is all about bringing the magic of Minecraft to life. Our goal is to create a unique experience for every player, with exclusive collectibles and in-game items that you won't find anywhere else." <span><br><br>- Jethro, Lead Developer</span></div>
+      <div class="text-box t1">"We strive to offer the best selection of Minecraft merchandise, from rare figurines to limited-edition items. Our passion for the game drives us to provide top-quality products that every Minecraft fan will love." <span><br><br>- Timothy, Product Designer</span></div>
+      <div class="text-box t1">"At Minecraft Tim, we are dedicated to enhancing your gaming experience. Our exclusive collectibles and in-game items are designed to add a special touch to your Minecraft adventures, making every moment memorable." <span><br><br>- Julius, Creative Director</span></div>
     </div>
   </div>
 </section>
 
 <section>
   <div class="container px-4 py-5" id="hanging-icons">
-    <h2 class="pb-2 border-bottom">Why GameWorld?</h2>
+    <h2 class="pb-2 border-bottom">What is Minecrafty Tim!</h2>
     <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
       <div class="col d-flex align-items-start">
         <div
@@ -98,8 +80,8 @@ use CodeIgniter\Database\BaseUtils;
           </svg>
         </div>
         <div>
-          <h3 class="fs-2 text-body-emphasis">Curated Games</h3>
-          <p>Access a premium selection of the latest and greatest games, tailored to suit every gamer’s taste.</p>
+          <h3 class="fs-2 text-body-emphasis">Curated Collectibles</h3>
+          <p>Discover a premium selection of Minecraft collectibles, handpicked to delight every fan.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -112,8 +94,8 @@ use CodeIgniter\Database\BaseUtils;
           </svg>
         </div>
         <div>
-          <h3 class="fs-2 text-body-emphasis">Exclusive Collectibles</h3>
-          <p>Get your hands on limited-edition in-game items and physical collectibles, only available at GameWorld.</p>
+          <h3 class="fs-2 text-body-emphasis">Exclusive Items</h3>
+          <p>Get your hands on limited-edition Minecraft items, available only at Minecrafty Tim.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -126,8 +108,8 @@ use CodeIgniter\Database\BaseUtils;
           </svg>
         </div>
         <div>
-          <h3 class="fs-2 text-body-emphasis">Exceptional Support</h3>
-          <p>We are committed to providing top-notch service to ensure your gaming experience is always first-class.</p>
+          <h3 class="fs-2 text-body-emphasis">Dedicated Support</h3>
+          <p>We are committed to providing top-notch service to ensure your Minecraft experience is always first-class.</p>
         </div>
       </div>
     </div>
