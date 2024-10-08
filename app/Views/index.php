@@ -5,11 +5,11 @@ use CodeIgniter\Database\BaseUtils;
 <?= $this->extend('layout/main_layout') ?>
 
 <?= $this->section('title') ?>
+<?= $this->endSection() ?>
 
-<?= $this->endSection('title') ?>
 <?= $this->section('css') ?>
 <?= $this->include('css/index_css') ?>
-<?= $this->endSection('css') ?>
+<?= $this->endSection() ?>
 
 <?= $this->section('content') ?>
 <section>
@@ -27,21 +27,21 @@ use CodeIgniter\Database\BaseUtils;
         <div class="col">
           <div class="card shadow-sm">
             <div class="card shadow">
-              <img src="https://image.api.playstation.com/vulcan/ap/rnd/202405/2306/e940c07107a4cefbbedbbd53451e26f0dbf292dcfab6c307.png" alt="">
+              <img src="<?= base_url('assets/images/index/minecraftguide.jpg') ?>" alt="">
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
             <div class="card shadow">
-              <img src="https://i.ebayimg.com/images/g/kLYAAOSwuwJkNaXz/s-l1200.jpg" alt="">
+              <img src="<?= base_url('assets/images/index/thevillage.jpg') ?>" alt="">
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
             <div class="card shadow">
-              <img src="https://preview.redd.it/metaphor-refantazio-high-quality-poster-v0-tx2vj1xvl8wc1.jpeg?auto=webp&s=5d6dd13ff191638e666fdefaf0ec361cc73d70bd" alt="">
+              <img src="<?= base_url('assets/images/index/shop1.jpg') ?>" alt="">
             </div>
           </div>
         </div>
@@ -58,7 +58,7 @@ use CodeIgniter\Database\BaseUtils;
   <div class="container col-xxl-8 px-4 py-5">
     <div class="row row1 flex-lg-row align-items-center g-5 py-5 ml-5">
       <div class="col-10 col-sm-8 col-lg-6">
-        <img src="<?= base_url('assets/images/minecraftcherry.webp') ?>" class="d-block mx-lg-auto img-fluid" alt="Minecrafty Tim" width="600" height="600" loading="lazy">
+        <img src="<?= base_url('assets/images/index/minecraftarrival.png') ?>" class="d-block mx-lg-auto img-fluid" alt="Minecrafty Tim" width="600" height="600" loading="lazy">
       </div>
       <div class="coming-soon col-lg-6">
         <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3" style="color: #00FF00;">Who is Minecrafty Tim?</h1>

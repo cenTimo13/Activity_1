@@ -4,7 +4,9 @@
     background-color: #3C3C3C; color: #FFFFFF;
   }
 
-
+body{
+font-family: "Times New Roman", Times, serif;
+}
   .icon-square {
     width: 3rem;
     height: 3rem;
